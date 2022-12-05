@@ -181,9 +181,9 @@ tasks:
     dest: ./resources/[qr]/qr-spawn
     
   - action: download_github
-    src: https://github.com/QRCore-RedM-Re/qr-stable
+    src: https://github.com/QRCore-RedM-Re/qr-stables
     ref: main
-    dest: ./resources/[qr]/qr-stable
+    dest: ./resources/[qr]/qr-stables
 
   - action: download_github
     src: https://github.com/QRCore-RedM-Re/qr-weapons
